@@ -1,3 +1,19 @@
-# dataprocessing
+# Hotel Booking Data Analysis
 
-My capstone data processing project.
+## Objective
+Analyze hotel booking trends and cancellations.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## Key Insights
+- Cancellation patterns
+- Seasonal bookings
+- Lead time behavior
+
+## Files
+- capstone_project.ipynb
